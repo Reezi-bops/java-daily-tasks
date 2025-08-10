@@ -12,13 +12,6 @@ public class EvenOdd {
 
         sc.close();
 
-        //Day 3
-        //Day 4
-        //Day 3
-        //Day 4
-        //Day 3
-        //Day 4
-        //Day 3
-        //Day 4
+        //Day 32
     }
 }

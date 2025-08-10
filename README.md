@@ -8,9 +8,9 @@ Welcome to the Java Daily Tasks challenge! This repository contains 50 tasks cat
 
 - [Completed] Print “Hello, World!” to the console.
 - [Completed] Write a program to add two numbers.
-- [ ] Find if a number is even or odd.
-- [ ] Calculate the factorial of a number.
-- [ ] Print the Fibonacci sequence up to N terms.
+- [Completed] Find if a number is even or odd.
+- [Completed] Calculate the factorial of a number.
+- [Completed] Print the Fibonacci sequence up to N terms.
 - [ ] Reverse a string.
 - [ ] Check if a string is a palindrome.
 - [ ] Find the largest of three numbers.

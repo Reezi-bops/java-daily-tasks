@@ -11,5 +11,7 @@ public class EvenOdd {
         System.out.println(n1 == 2 ? "Even" : "Odd");
 
         sc.close();
+
+        //Day 2
     }
 }

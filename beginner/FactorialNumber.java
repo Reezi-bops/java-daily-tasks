@@ -11,6 +11,7 @@ public class FactorialNumber {
 
         long factorial = 1;
 
+
         if (num < 0) {
             System.out.println("Factorial is not defined for negative numbers.");
         } else {

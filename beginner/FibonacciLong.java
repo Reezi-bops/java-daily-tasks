@@ -16,7 +16,6 @@ public class FibonacciLong {
 
         long a = 0, b = 1;
 
-
         System.out.print("Fibonacci sequence: ");
 
         for (int i = 1; i <= n; i++) {
